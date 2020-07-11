@@ -1,0 +1,62 @@
+<content-title name="联系我们" describe="SYC">
+  <view class="card-top">
+    <view class="card-dot"></view>
+    <view class="content-name"></view>
+  </view>
+
+  <l-card type="primary" plaintext l-class="card" title="广州本部">
+    <view class="content">
+      <text>
+        地址：广州市番禺区钟村街汉溪大道东290号保利大都汇3栋办公楼401房
+      </text>
+      <text>
+        电话：020-34583232-8001
+      </text>
+      <text>
+        传真：020-34583232-8002
+      </text>
+      <text>
+        邮箱：info@shengyc.com
+      </text>
+      <text>
+        网址：www.shengyc.com
+      </text>
+    </view>
+  </l-card>
+  <view class="card-top">
+    <view class="card-dot"></view>
+    <view class="content-name"></view>
+  </view>
+
+  <l-card type="primary" plaintext l-class="card" title="北京分公司">
+    <view class="content">
+      <text>
+        地址：北京市朝阳区望京街2号合生麒麟社2号楼811室,电话：020-34583232-8001
+      </text>
+    </view>
+  </l-card>
+  <view class="card-top">
+    <view class="card-dot"></view>
+    <view class="content-name"></view>
+  </view>
+
+  <l-card type="primary" plaintext l-class="card" title="江西分公司">
+    <view class="content">
+      <text>
+        地址：江西省南昌市青山湖区洪都中大道鸿雁电子市场n区01号,电话：020-34583232-8001
+      </text>
+    </view>
+  </l-card>
+  <view class="card-top">
+    <view class="card-dot"></view>
+    <view class="content-name"></view>
+  </view>
+
+  <l-card type="primary" plaintext l-class="card" title="苏州分公司">
+    <view class="content">
+      <text>
+        地址：江苏省苏州市,吴中区,柴场路,3号院1号楼,  电话：86-512-62818208
+      </text>
+    </view>
+  </l-card>
+</content-title>

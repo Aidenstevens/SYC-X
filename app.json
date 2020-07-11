@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/posts/post",
+    "pages/posts/post-detail/post-detail",
+    "pages/case/case",
+    "pages/call/call"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#5d9ae9"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/posts/post",
+        "iconPath": "images/tab/avatar.png",
+        "selectedIconPath": "images/tab/avatar_hi.png"
+      },
+      {
+        "pagePath": "pages/case/case",
+        "iconPath": "images/tab/waterFlow.png",
+        "selectedIconPath": "images/tab/waterFlow_hi.png"
+      },
+      {
+        "pagePath": "pages/call/call",
+        "iconPath": "images/tab/message.png",
+        "selectedIconPath": "images/tab/message_hi.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

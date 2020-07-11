@@ -1,0 +1,9 @@
+text{
+    font-family: MicroSoft Yahei;
+    font-size: 24rpx;
+    color: #686363;
+}
+
+input{
+    font-family: MicroSoft YaHei;
+}

@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/logo.png"></image>
+    <text class="motto">盛原成，欢迎您</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">点击进入</text>
+    </view>
+</view>
